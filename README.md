@@ -1,4 +1,5 @@
-# RWA Tokenization Index (RTX) Tokens / DeFi Tokenization Index (DTI) Token
+# RWA Tokenization Index (RTX) Tokens
+# DeFi Tokenization Index (DTI) Tokens
 
 ##  DTX / RTX
 **Govermance Token**
